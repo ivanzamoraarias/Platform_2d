@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: c73ab7a1f84c745d4a8b3d297e88a6eb
+timeCreated: 1496370737
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: Bone_001
+    100006: Bone_002
+    100008: Bone_003
+    100010: Bone_004
+    100012: Bone_005
+    100014: Bone_006
+    100016: Bone_007
+    100018: Bone_008
+    100020: Bone_009
+    100022: Bone_010
+    100024: Bone_011
+    100026: Bone_012
+    100028: Bone_013
+    100030: Bone_014
+    100032: Bone_015
+    100034: Bone_016
+    100036: Bone_017
+    100038: Bone_018
+    100040: Bone_019
+    100042: Bone_020
+    100044: Bone_021
+    100046: Bone_022
+    100048: Bone_023
+    100050: Bone_024
+    100052: Bone_025
+    100054: Bone_026
+    100056: Bone_027
+    100058: Bone_028
+    100060: Bone_029
+    100062: Bone_030
+    100064: Bone_031
+    100066: Bone_032
+    100068: Bone_033
+    100070: Bone_034
+    100072: Bone_035
+    100074: Bone_036
+    100076: Bone_038
+    100078: Bone_039
+    100080: Bone_040
+    100082: Bone_041
+    100084: Bone_042
+    100086: Bone_043
+    100088: Bone_044
+    100090: Bone_045
+    100092: Bone_046
+    100094: Bone_047
+    100096: Bone_048
+    100098: Bone_049
+    100100: Bone_050
+    100102: Bone_051
+    100104: Bone_052
+    100106: botas
+    100108: campera
+    100110: corpi_o
+    100112: Cube
+    100114: cuerpo
+    100116: Cylinder
+    100118: Cylinder_001
+    100120: pelo
+    100122: Plane_000
+    100124: Plane_001
+    100126: short
+    100128: short_MeshPart0
+    100130: short_MeshPart1
+    100132: Sphere
+    400000: Armature
+    400002: //RootNode
+    400004: Bone_001
+    400006: Bone_002
+    400008: Bone_003
+    400010: Bone_004
+    400012: Bone_005
+    400014: Bone_006
+    400016: Bone_007
+    400018: Bone_008
+    400020: Bone_009
+    400022: Bone_010
+    400024: Bone_011
+    400026: Bone_012
+    400028: Bone_013
+    400030: Bone_014
+    400032: Bone_015
+    400034: Bone_016
+    400036: Bone_017
+    400038: Bone_018
+    400040: Bone_019
+    400042: Bone_020
+    400044: Bone_021
+    400046: Bone_022
+    400048: Bone_023
+    400050: Bone_024
+    400052: Bone_025
+    400054: Bone_026
+    400056: Bone_027
+    400058: Bone_028
+    400060: Bone_029
+    400062: Bone_030
+    400064: Bone_031
+    400066: Bone_032
+    400068: Bone_033
+    400070: Bone_034
+    400072: Bone_035
+    400074: Bone_036
+    400076: Bone_038
+    400078: Bone_039
+    400080: Bone_040
+    400082: Bone_041
+    400084: Bone_042
+    400086: Bone_043
+    400088: Bone_044
+    400090: Bone_045
+    400092: Bone_046
+    400094: Bone_047
+    400096: Bone_048
+    400098: Bone_049
+    400100: Bone_050
+    400102: Bone_051
+    400104: Bone_052
+    400106: botas
+    400108: campera
+    400110: corpi_o
+    400112: Cube
+    400114: cuerpo
+    400116: Cylinder
+    400118: Cylinder_001
+    400120: pelo
+    400122: Plane_000
+    400124: Plane_001
+    400126: short
+    400128: short_MeshPart0
+    400130: short_MeshPart1
+    400132: Sphere
+    2300000: botas
+    2300002: campera
+    2300004: corpi_o
+    2300006: Cube
+    2300008: Cylinder
+    2300010: Cylinder_001
+    2300012: pelo
+    2300014: Plane_000
+    2300016: Plane_001
+    2300018: short_MeshPart0
+    2300020: short_MeshPart1
+    2300022: Sphere
+    3300000: botas
+    3300002: campera
+    3300004: corpi_o
+    3300006: Cube
+    3300008: Cylinder
+    3300010: Cylinder_001
+    3300012: pelo
+    3300014: Plane_000
+    3300016: Plane_001
+    3300018: short_MeshPart0
+    3300020: short_MeshPart1
+    3300022: Sphere
+    4300000: Plane_000
+    4300002: Plane_001
+    4300004: cuerpo
+    4300006: botas
+    4300008: Cylinder
+    4300010: Sphere
+    4300012: pelo
+    4300014: Cube
+    4300016: Cylinder_001
+    4300018: short_MeshPart0
+    4300020: short_MeshPart1
+    4300022: corpi_o
+    4300024: campera
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: cuerpo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
